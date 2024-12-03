@@ -1,0 +1,1 @@
+print("One line command in python")
